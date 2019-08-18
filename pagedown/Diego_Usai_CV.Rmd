@@ -11,7 +11,7 @@ output:
 Aside
 ================================================================================
 
-![Diego Usai](C:/Users/LENOVO/Desktop/PROJECTS/CV/pagedown/Diego_Usai_cropped.jpg){width=70%}
+![Diego Usai](https://github.com/DiegoUsaiUK/CV/blob/master/pagedown/Diego_Usai_cropped.jpg){width=70%}
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
