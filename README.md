@@ -1,2 +1,2 @@
 # CV
-Refreshing my Curriculum Vitae with LaTeX on overleaf.com
+Curriculum Vitae with overleaf.com, an online LaTeX editor
