@@ -1,2 +1,2 @@
 # CV
-Curriculum Vitae with overleaf.com, an online LaTeX editor
+Download my Curriculum Vitae directly from my GitHub page!
